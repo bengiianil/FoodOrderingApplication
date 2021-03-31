@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adet">Adet:</string>
+    <string name="toplam_tutar">Toplam Tutar:</string>
+    <string name="genel_toplam">"Genel Toplam: "</string>
+    <string name="sepet">Sepet</string>
+    <string name="Menu">Menü</string>
+</resources>

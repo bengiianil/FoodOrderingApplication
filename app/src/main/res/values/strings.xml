@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YemekSiparisUygulamasi</string>
+    <string name="yemek_adi">Yemek Adı</string>
+    <string name="adet">Adet:</string>
+    <string name="toplam_tutar">Toplam Tutar:</string>
+    <string name="genel_toplam">Genel Toplam:</string>
+    <string name="sepet">Sepet</string>
+    <string name="Menu">Menü</string>
+</resources>
